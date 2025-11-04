@@ -21,7 +21,7 @@
 📋 Требования: Python 3.8+, ADB, Android устройство с включенной отладкой по USB
 
 📥 Скачать ADB:
-🪟 Windows: Скачайте Platform Tools с официального сайта  
+🪟 Windows: <a id="myhref" href="https://developer.android.com/tools/releases/platform-tools?hl=ru">Скачайте Platform Tools с официального сайта</a>
 
 🐧 Linux: sudo apt install adb  
 
