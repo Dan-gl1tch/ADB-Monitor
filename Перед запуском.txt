@@ -2,7 +2,7 @@
 
 
 
-Скачать ADB: 🪟 Windows: Скачайте Platform Tools с официального сайта
+Скачать ADB: 🪟 Windows: Скачайте Platform Tools с официального сайта (https://developer.android.com/tools/releases/platform-tools?hl=ru)
 Linux: sudo apt install adb
 macOS: brew install android-platform-tools
 
