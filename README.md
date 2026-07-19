@@ -1,8 +1,8 @@
 <div align="center">
 
-# Android Diagnostic Board (ADB Monitor)
+<img src="https://i.postimg.cc/7PsrQBxS/Chat-GPT-Image-19-iul-2026-g-17-16-23.png" width="600" alt="ADB Monitor">
 
-<img src="https://i.postimg.cc/yYMX1H17/Chat-GPT-Image-19-iul-2026-g-16-28-41.png" width="600" alt="ADB Monitor">
+# Android Diagnostic Board (ADB Monitor)
 
 **Графическое приложение для мониторинга и диагностики Android-устройств через ADB.**
 
