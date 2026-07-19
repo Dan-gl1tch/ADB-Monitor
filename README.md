@@ -6,9 +6,6 @@
 
 **Графическое приложение для мониторинга и диагностики Android-устройств через ADB.**
 
-[![Python Version](https://shields.io)](https://python.org)
-[![Platform](https://shields.io)]()
-
 ---
 </div>
 
