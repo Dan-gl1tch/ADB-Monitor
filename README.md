@@ -1,6 +1,6 @@
 # Android Diagnostic Board (ADB Monitor)
 
-![ADB Monitor]([https://github.com/jon/coolproject/raw/master/image/image.png](https://imgbox.com/zLZa79ER))
+![ADB Monitor](https://imgbox.com/zLZa79ER)
 
 ## Описание
 Графическое приложение для мониторинга и диагностики Android-устройств через ADB. Отображает системную информацию, производительность и позволяет выполнять базовые операции управления.
