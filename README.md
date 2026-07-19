@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.postimg.cc/7PsrQBxS/Chat-GPT-Image-19-iul-2026-g-17-16-23.png" width="600" alt="ADB Monitor">
+<img src="https://i.postimg.cc/7PsrQBxS/Chat-GPT-Image-19-iul-2026-g-17-16-23.png" width="800" alt="ADB Monitor">
 
 <p><strong><span style="font-size: 2em;">Android Diagnostic Board (ADB Monitor)</span></strong></p>
 
