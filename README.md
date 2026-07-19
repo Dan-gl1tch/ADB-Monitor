@@ -1,6 +1,6 @@
 # Android Diagnostic Board (ADB Monitor)
 
-![ADB Monitor](https://imgbox.com/zLZa79ER)
+![ADB Monitor](https://i.postimg.cc/yYMX1H17/Chat-GPT-Image-19-iul-2026-g-16-28-41.png)
 
 ## Описание
 Графическое приложение для мониторинга и диагностики Android-устройств через ADB. Отображает системную информацию, производительность и позволяет выполнять базовые операции управления.
